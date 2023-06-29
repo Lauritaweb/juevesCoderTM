@@ -2,7 +2,7 @@
 *.map
 *.vscode
 *.ai
-node_module/
+node_modules/
 fuentes/
 passwords.txt
 envio.php
